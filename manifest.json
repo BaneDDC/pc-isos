@@ -16,37 +16,37 @@
       "drive": "FDD0"
     },
     {
-      "file": "x86DSK01.img",
+      "file": "x86DSK1.img",
       "size_bytes": 1474560,
       "md5": "601c26d721a89f9655cd293edaeb5222",
       "drive": "HDD0"
     },
     {
-      "file": "x86DSK02.img",
+      "file": "x86DSK2.img",
       "size_bytes": 1474560,
       "md5": "a320e4d6b87927c3d810b2bfcef2d38d",
       "drive": "HDD1"
     },
     {
-      "file": "x86DSK03.img",
+      "file": "x86DSK3.img",
       "size_bytes": 1474560,
       "md5": "594c531229568dd7072266d3e25a166c",
       "drive": "HDD2"
     },
     {
-      "file": "x86DSK04.img",
+      "file": "x86DSK4.img",
       "size_bytes": 1474560,
       "md5": "2fb14ad2054fa21059e0bd5a24820895",
       "drive": "HDD3"
     },
     {
-      "file": "x86DSK05.img",
+      "file": "x86DSK5.img",
       "size_bytes": 1474560,
       "md5": "6bc8a44b9d832e8e9ea676f6b69109e0",
       "drive": "HDD_OVERFLOW_4"
     },
     {
-      "file": "x86DSK06.img",
+      "file": "x86DSK6.img",
       "size_bytes": 1474560,
       "md5": "08e07fbf040aac214e6b009bdb318aff",
       "drive": "HDD_OVERFLOW_5"
