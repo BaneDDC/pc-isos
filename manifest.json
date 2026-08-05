@@ -4,6 +4,12 @@
   "base_url": "",
   "disks": [
     {
+      "file": "WINDOWS_3.1.ISO",
+      "size_bytes": 8951808,
+      "md5": "d2bd049f2feabebdd64bf4a5ac0b88ee",
+      "drive": "CDROM"
+    },
+    {
       "file": "x86BOOT.img",
       "size_bytes": 1474560,
       "md5": "b7c1927505ee3f9788b79501cf011783",
