@@ -1,0 +1,49 @@
+{
+  "version": "1.0",
+  "generated_by": "manifest_gen.py",
+  "base_url": "",
+  "disks": [
+    {
+      "file": "x86BOOT.img",
+      "size_bytes": 1474560,
+      "md5": "b7c1927505ee3f9788b79501cf011783",
+      "drive": "FDD0"
+    },
+    {
+      "file": "x86DSK01.img",
+      "size_bytes": 1474560,
+      "md5": "601c26d721a89f9655cd293edaeb5222",
+      "drive": "HDD0"
+    },
+    {
+      "file": "x86DSK02.img",
+      "size_bytes": 1474560,
+      "md5": "a320e4d6b87927c3d810b2bfcef2d38d",
+      "drive": "HDD1"
+    },
+    {
+      "file": "x86DSK03.img",
+      "size_bytes": 1474560,
+      "md5": "594c531229568dd7072266d3e25a166c",
+      "drive": "HDD2"
+    },
+    {
+      "file": "x86DSK04.img",
+      "size_bytes": 1474560,
+      "md5": "2fb14ad2054fa21059e0bd5a24820895",
+      "drive": "HDD3"
+    },
+    {
+      "file": "x86DSK05.img",
+      "size_bytes": 1474560,
+      "md5": "6bc8a44b9d832e8e9ea676f6b69109e0",
+      "drive": "HDD_OVERFLOW_4"
+    },
+    {
+      "file": "x86DSK06.img",
+      "size_bytes": 1474560,
+      "md5": "08e07fbf040aac214e6b009bdb318aff",
+      "drive": "HDD_OVERFLOW_5"
+    }
+  ]
+}
