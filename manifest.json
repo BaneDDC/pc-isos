@@ -8,6 +8,12 @@
       "size_bytes": 2971648,
       "md5": "4127579d311558a4f56e434e9a442af7",
       "drive": "CDROM"
+    },
+    {
+      "file": "Windows 95A.iso",
+      "size_bytes": 614397952,
+      "md5": "ba693f1c933fc272fd0654efb38d0d55",
+      "drive": "HDD0"
     }
   ]
 }
